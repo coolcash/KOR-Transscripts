@@ -47,3 +47,6 @@ January 21, 2025, 09:01 am
 ##### **Core Protocol team**
 - Set up regular Black Mirror AMAs, potentially on Twitter spaces (41:39)
 
+
+<iframe src="https://share.fireflies.ai/embed/meetings/1nKa9aRnheoH6aDS" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
